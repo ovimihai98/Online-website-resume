@@ -26,4 +26,5 @@ Scope for this part is to create the backend for the site and a functionality: t
 
 - Created DynamoDB with a new table to store the views variable
 - Created a Lambda function to use as API
-- 
+- Set permissions for Lambda function to access DynamoDB
+- Created a JS function to add viewer count on the frontend.
