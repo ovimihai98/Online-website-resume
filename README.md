@@ -18,3 +18,12 @@ The website has been already written as a part of a previous project I had. I tw
 - Adding domain resume.ovidevproject.cloud to CloudFront
 - Creating a certificate with AWS ACM
 - Created an A record in my Route53 hosted zone to point to the cloudfront distribution.
+
+
+## Backend
+
+Scope for this part is to create the backend for the site and a functionality: to display on the frontend how many people have accessed the site and store that number in a DynamoDB database.
+
+- Created DynamoDB with a new table to store the views variable
+- Created a Lambda function to use as API
+- 
