@@ -28,3 +28,7 @@ Scope for this part is to create the backend for the site and a functionality: t
 - Created a Lambda function to use as API
 - Set permissions for Lambda function to access DynamoDB
 - Created a JS function to add viewer count on the frontend.
+
+## CICD Frontend
+
+I have used GitHub Actions to create a CICD Pipeline for the front end of the site using S3 Sync Github Action.
