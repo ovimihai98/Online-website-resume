@@ -32,3 +32,9 @@ Scope for this part is to create the backend for the site and a functionality: t
 ## CICD Frontend
 
 I have used GitHub Actions to create a CICD Pipeline for the front end of the site using S3 Sync Github Action.
+
+
+## Architecture
+
+
+![alt text](img/Screenshot%20from%202024-08-26%2022-09-37.png)
